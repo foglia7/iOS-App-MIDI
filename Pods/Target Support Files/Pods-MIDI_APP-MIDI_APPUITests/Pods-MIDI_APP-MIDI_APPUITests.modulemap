@@ -1,0 +1,6 @@
+framework module Pods_MIDI_APP_MIDI_APPUITests {
+  umbrella header "Pods-MIDI_APP-MIDI_APPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
